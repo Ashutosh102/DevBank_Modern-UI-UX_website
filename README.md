@@ -1,5 +1,6 @@
 # DevBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![Group 481778](https://user-images.githubusercontent.com/75971776/184542880-1559bd5a-fc56-4bd0-8a1f-2d5438a20b2e.png)
+
 
 
